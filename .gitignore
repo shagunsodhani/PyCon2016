@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+**/metastore_db/
+data/*
+temp/*
+**/.ipynb_checkpoints/*
+model/*
