@@ -1,7 +1,8 @@
 # PyCon2016
 
-[![Join the chat at https://gitter.im/shagunsodhani/PyCon2016](https://badges.gitter.im/shagunsodhani/PyCon2016.svg)](https://gitter.im/shagunsodhani/PyCon2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Code and Presentation for PyCon2016
+
+[![Join the chat at https://gitter.im/shagunsodhani/PyCon2016](https://badges.gitter.im/shagunsodhani/PyCon2016.svg)](https://gitter.im/shagunsodhani/PyCon2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Topic
 
